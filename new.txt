@@ -1,2 +1,5 @@
 This new txt fie stash use
+
 This is Develeper branch text
+Master branch edit text
+
